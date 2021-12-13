@@ -1,0 +1,240 @@
+zipcode,AREA_NAME,DR_NO
+90001.0,77th Street,6275
+90002.0,Southeast,30550
+90003.0,Southeast,40160
+90004.0,Olympic,38750
+90005.0,Olympic,32468
+90006.0,Olympic,17791
+90007.0,Southwest,25292
+90008.0,Southwest,22828
+90011.0,Newton,62307
+90012.0,Central,25298
+90013.0,Central,32916
+90014.0,Central,19316
+90015.0,Central,18006
+90016.0,Southwest,33099
+90017.0,Central,16081
+90018.0,Southwest,24561
+90019.0,Wilshire,19948
+90021.0,Newton,9576
+90022.0,Harbor,2
+90023.0,Hollenbeck,17917
+90024.0,West LA,15226
+90025.0,West LA,17575
+90026.0,Rampart,26786
+90027.0,Northeast,21718
+90028.0,Hollywood,53017
+90029.0,Rampart,5323
+90031.0,Hollenbeck,15942
+90032.0,Hollenbeck,13939
+90033.0,Hollenbeck,28453
+90034.0,Pacific,13708
+90035.0,West LA,9188
+90036.0,Wilshire,34560
+90037.0,77th Street,27730
+90038.0,Hollywood,22589
+90039.0,Northeast,13771
+90040.0,Newton,2
+90041.0,Northeast,11887
+90042.0,Northeast,22845
+90043.0,77th Street,25334
+90044.0,77th Street,32939
+90045.0,Pacific,34535
+90046.0,Hollywood,14670
+90047.0,77th Street,17632
+90048.0,Wilshire,9270
+90049.0,West LA,11547
+90052.0,Newton,719
+90056.0,Pacific,2864
+90057.0,Rampart,33707
+90058.0,Newton,7321
+90059.0,Southeast,15233
+90061.0,Southeast,16260
+90062.0,77th Street,12069
+90063.0,Hollenbeck,6459
+90064.0,West LA,11630
+90065.0,Northeast,16495
+90066.0,Pacific,23748
+90067.0,West LA,4661
+90068.0,Hollywood,11361
+90069.0,Wilshire,4132
+90073.0,West LA,3081
+90077.0,West LA,2583
+90082.0,Newton,3662
+90089.0,Southwest,10242
+90094.0,Pacific,1114
+90201.0,Central,7
+90210.0,West LA,2650
+90211.0,Wilshire,2910
+90212.0,West LA,1304
+90220.0,Hollenbeck,2
+90221.0,Harbor,1
+90222.0,Southeast,1
+90230.0,Pacific,3932
+90232.0,Pacific,1670
+90240.0,Harbor,1
+90241.0,77th Street,17
+90245.0,Pacific,816
+90247.0,Southeast,5300
+90248.0,Harbor,3361
+90249.0,Southeast,1
+90250.0,Pacific,2
+90254.0,Olympic,9
+90255.0,Central,2
+90262.0,Pacific,2
+90265.0,West LA,16
+90266.0,Harbor,20
+90270.0,Northeast,1
+90272.0,West LA,7589
+90274.0,Harbor,1
+90275.0,Harbor,2412
+90277.0,Olympic,1
+90290.0,Topanga,87
+90291.0,Pacific,28788
+90292.0,Pacific,4308
+90293.0,Pacific,5136
+90301.0,Pacific,1585
+90302.0,77th Street,1882
+90303.0,77th Street,1
+90304.0,Pacific,294
+90305.0,77th Street,2628
+90401.0,Central,62
+90402.0,West LA,514
+90403.0,West LA,44
+90404.0,West LA,2043
+90405.0,Pacific,2362
+90501.0,Harbor,9233
+90502.0,Harbor,431
+90504.0,Hollywood,4
+90505.0,Mission,1
+90603.0,Northeast,1
+90605.0,Central,1
+90623.0,Wilshire,1
+90638.0,Northeast,1
+90640.0,Central,2
+90650.0,Central,1
+90660.0,Hollenbeck,2
+90670.0,Central,1
+90703.0,Pacific,3
+90704.0,Olympic,6
+90706.0,Olympic,3
+90710.0,Harbor,9077
+90717.0,Harbor,1592
+90720.0,Hollenbeck,1
+90723.0,Southwest,28
+90731.0,Harbor,39302
+90732.0,Harbor,5723
+90740.0,Olympic,1
+90744.0,Harbor,31752
+90745.0,Harbor,1100
+90746.0,Southeast,1
+90755.0,Newton,1
+90802.0,Harbor,15
+90803.0,Central,2
+90804.0,Harbor,7
+90805.0,77th Street,1
+90806.0,Harbor,4
+90807.0,Newton,3
+90808.0,Southwest,2
+90809.0,Mission,3
+90810.0,Harbor,112
+90813.0,Harbor,87
+90814.0,Central,8
+90815.0,N Hollywood,1
+91001.0,Southeast,1
+91006.0,Foothill,2
+91010.0,Harbor,2
+91011.0,Southwest,1
+91016.0,Newton,1
+91030.0,Hollenbeck,570
+91040.0,Foothill,7006
+91042.0,Foothill,11002
+91101.0,Pacific,2
+91103.0,Pacific,1
+91104.0,Central,1
+91105.0,Northeast,232
+91106.0,Southwest,1
+91107.0,Devonshire,1
+91201.0,Northeast,541
+91203.0,Northeast,100
+91204.0,Northeast,792
+91205.0,Northeast,668
+91206.0,Northeast,52
+91208.0,Northeast,1
+91214.0,Foothill,1
+91301.0,Foothill,6
+91302.0,Topanga,590
+91303.0,Topanga,26744
+91304.0,Topanga,20337
+91306.0,Topanga,13115
+91307.0,Topanga,10021
+91311.0,Devonshire,18358
+91316.0,West Valley,11465
+91321.0,Central,26
+91324.0,Devonshire,20410
+91325.0,Devonshire,8041
+91326.0,Devonshire,13375
+91330.0,Devonshire,925
+91331.0,Foothill,32014
+91335.0,West Valley,34834
+91340.0,Mission,2704
+91342.0,Mission,31354
+91343.0,Mission,19728
+91344.0,Devonshire,23956
+91345.0,Mission,9225
+91350.0,Hollenbeck,1
+91351.0,Topanga,2
+91352.0,Foothill,19938
+91356.0,West Valley,19072
+91361.0,Hollywood,1
+91364.0,Topanga,9011
+91367.0,Topanga,26213
+91384.0,Harbor,1
+91401.0,Van Nuys,25112
+91402.0,Mission,29713
+91403.0,Van Nuys,13921
+91405.0,Van Nuys,25073
+91406.0,West Valley,22032
+91411.0,Van Nuys,16794
+91423.0,Van Nuys,17184
+91436.0,West Valley,8184
+91501.0,Central,4
+91502.0,Northeast,1
+91504.0,Foothill,385
+91505.0,N Hollywood,1261
+91506.0,Northeast,9
+91522.0,N Hollywood,4
+91601.0,N Hollywood,24476
+91602.0,N Hollywood,5763
+91604.0,N Hollywood,19845
+91605.0,N Hollywood,21628
+91606.0,N Hollywood,34215
+91607.0,N Hollywood,13759
+91702.0,Foothill,1
+91711.0,Olympic,2
+91723.0,Wilshire,1
+91724.0,Pacific,1
+91731.0,Mission,3
+91732.0,Southeast,1
+91741.0,Foothill,1
+91744.0,Central,11
+91748.0,Northeast,1
+91750.0,Olympic,1
+91754.0,Harbor,3
+91755.0,Devonshire,1
+91767.0,Central,3
+91768.0,Hollenbeck,1
+91773.0,Harbor,2
+91789.0,Foothill,1
+91790.0,Northeast,2
+91801.0,Hollenbeck,1425
+91803.0,Hollenbeck,577
+93063.0,Devonshire,1
+93510.0,Hollenbeck,1
+93535.0,Harbor,3
+93536.0,Pacific,1
+93544.0,Central,1
+93550.0,N Hollywood,1
+93551.0,Mission,7
+93552.0,Devonshire,1
+93591.0,Harbor,1
